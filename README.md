@@ -1,6 +1,6 @@
 ### IPFS, IPFS-Cluster, and Underlying Modules
 
-###IPFS
+### IPFS
 The InterPlanetary File System (IPFS) is a peer-to-peer (p2p) network and protocol designed to make the web faster, safer, and more open. IPFS is an open-source project by Protocol Labs with contributions from thousands of individuals around the world. It aims to supplement, or possibly even replace, the Hypertext Transfer Protocol (HTTP) that currently powers the web, by creating a more reliable and robust system.
 
 Instead of relying on centralized servers to deliver web content, IPFS connects devices with the same system of files. In some ways, this makes IPFS similar to the World Wide Web. But IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository.
